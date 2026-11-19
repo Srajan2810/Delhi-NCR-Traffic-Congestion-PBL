@@ -1,0 +1,4 @@
+TRAFFIC SIGNAL OPTIMIZATION
+North-South: 90.00 seconds
+East-West: 30.00 seconds
+Objective Value: 870.00

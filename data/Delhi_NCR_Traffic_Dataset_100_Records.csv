@@ -1,0 +1,101 @@
+Date,Location,Time,Time_Period,Day_Type,Traffic_Volume_vehicles_per_interval,Average_Speed_kmph,Queue_Length_vehicles,Weather,Signal_Wait_Time_seconds,Observed_Distance_km_illustrative,Estimated_Travel_Time_minutes
+2026-10-01,Noida - Sector 62,08:00,Morning Peak,Weekday,897,31.6,28,Cloudy,58.19,11.76,26.91
+2026-10-01,Noida - Sector 62,11:00,Late Morning,Weekday,629,27.75,19,Cloudy,55.87,8.44,23.71
+2026-10-01,Noida - Sector 62,14:00,Afternoon,Weekday,513,32.26,10,Clear,44.53,8.32,17.04
+2026-10-01,Noida - Sector 62,17:00,Evening Peak,Weekday,1171,27.5,24,Clear,65.58,6.67,19.25
+2026-10-01,Noida - Sector 62,20:00,Night,Weekday,540,37.79,11,Clear,34.75,5.7,12.19
+2026-10-01,Ghaziabad - Raj Nagar,08:00,Morning Peak,Weekday,867,24.92,18,Clear,65.5,6.37,19.68
+2026-10-01,Ghaziabad - Raj Nagar,11:00,Late Morning,Weekday,582,29.29,14,Cloudy,49.87,3.4,10.83
+2026-10-01,Ghaziabad - Raj Nagar,14:00,Afternoon,Weekday,521,31.23,6,Clear,29.54,6.59,12.59
+2026-10-01,Ghaziabad - Raj Nagar,17:00,Evening Peak,Weekday,1083,23.93,27,Clear,58.99,9.65,28.75
+2026-10-01,Ghaziabad - Raj Nagar,20:00,Night,Weekday,501,31.85,10,Clear,33.8,4.15,9.19
+2026-10-01,Delhi - ITO,08:00,Morning Peak,Weekday,1294,18.88,39,Cloudy,89.79,8.62,32.71
+2026-10-01,Delhi - ITO,11:00,Late Morning,Weekday,976,21.91,25,Cloudy,52.45,2.23,9.21
+2026-10-01,Delhi - ITO,14:00,Afternoon,Weekday,884,21.73,21,Cloudy,56.2,8.96,29.53
+2026-10-01,Delhi - ITO,17:00,Evening Peak,Weekday,1458,21.05,32,Clear,67.62,3.18,12.04
+2026-10-01,Delhi - ITO,20:00,Night,Weekday,825,22.24,28,Rainy,58.95,9.17,27.21
+2026-10-01,Gurugram - Cyber City,08:00,Morning Peak,Weekday,1099,23.88,34,Clear,68.08,5.06,18.4
+2026-10-01,Gurugram - Cyber City,11:00,Late Morning,Weekday,654,27.02,17,Clear,48.81,8.27,24.43
+2026-10-01,Gurugram - Cyber City,14:00,Afternoon,Weekday,630,27.47,18,Clear,59.17,5.3,15.43
+2026-10-01,Gurugram - Cyber City,17:00,Evening Peak,Weekday,1149,22.73,29,Clear,72.03,5.47,20.38
+2026-10-01,Gurugram - Cyber City,20:00,Night,Weekday,552,23.99,17,Clear,53.66,6.87,25.93
+2026-10-07,Noida - Sector 62,08:00,Morning Peak,Weekday,911,28.09,30,Cloudy,91.2,2.23,13.7
+2026-10-07,Noida - Sector 62,11:00,Late Morning,Weekday,719,29.74,15,Clear,47.17,8.09,20.6
+2026-10-07,Noida - Sector 62,14:00,Afternoon,Weekday,616,29.39,12,Clear,47.47,5.77,14.57
+2026-10-07,Noida - Sector 62,17:00,Evening Peak,Weekday,1079,29.74,18,Clear,65.63,4.44,9.32
+2026-10-07,Noida - Sector 62,20:00,Night,Weekday,538,28.73,16,Cloudy,34.86,7.22,16.41
+2026-10-07,Ghaziabad - Raj Nagar,08:00,Morning Peak,Weekday,901,24.24,24,Clear,68.9,6.96,17.33
+2026-10-07,Ghaziabad - Raj Nagar,11:00,Late Morning,Weekday,540,28.79,13,Clear,43.35,11.85,24.75
+2026-10-07,Ghaziabad - Raj Nagar,14:00,Afternoon,Weekday,541,30.04,19,Rainy,46.2,2.97,5.57
+2026-10-07,Ghaziabad - Raj Nagar,17:00,Evening Peak,Weekday,889,26.21,23,Clear,64.56,10.52,26.57
+2026-10-07,Ghaziabad - Raj Nagar,20:00,Night,Weekday,505,24.37,13,Cloudy,42.37,9.72,29.38
+2026-10-07,Delhi - ITO,08:00,Morning Peak,Weekday,2051,18.9,38,Rainy,87.86,10.46,37.74
+2026-10-07,Delhi - ITO,11:00,Late Morning,Weekday,942,21.03,26,Clear,68.36,10.75,32.99
+2026-10-07,Delhi - ITO,14:00,Afternoon,Weekday,930,17.05,19,Clear,42.71,10.88,40.14
+2026-10-07,Delhi - ITO,17:00,Evening Peak,Weekday,1809,19.73,40,Clear,88.14,3.32,16.37
+2026-10-07,Delhi - ITO,20:00,Night,Weekday,1012,28.05,24,Rainy,61.12,4.08,12.45
+2026-10-07,Gurugram - Cyber City,08:00,Morning Peak,Weekday,1320,24.83,34,Clear,85.83,6.65,22.16
+2026-10-07,Gurugram - Cyber City,11:00,Late Morning,Weekday,790,16.83,21,Clear,23.16,6.69,27.66
+2026-10-07,Gurugram - Cyber City,14:00,Afternoon,Weekday,744,24.12,27,Rainy,56.58,8.23,24.64
+2026-10-07,Gurugram - Cyber City,17:00,Evening Peak,Weekday,1561,23.74,30,Cloudy,75.62,2.02,7.24
+2026-10-07,Gurugram - Cyber City,20:00,Night,Weekday,599,29.99,16,Clear,43.34,8.32,19.74
+2026-10-13,Noida - Sector 62,08:00,Morning Peak,Weekday,949,23.79,28,Clear,76.72,10.3,30.04
+2026-10-13,Noida - Sector 62,11:00,Late Morning,Weekday,549,29.17,20,Clear,45.88,5.48,13.37
+2026-10-13,Noida - Sector 62,14:00,Afternoon,Weekday,553,33.66,11,Clear,26.27,10.67,19.7
+2026-10-13,Noida - Sector 62,17:00,Evening Peak,Weekday,1086,26.86,35,Clear,69.35,2.27,8.17
+2026-10-13,Noida - Sector 62,20:00,Night,Weekday,541,23.49,14,Cloudy,58.12,6.5,19.76
+2026-10-13,Ghaziabad - Raj Nagar,08:00,Morning Peak,Weekday,863,25.77,12,Clear,57.33,3.41,8.31
+2026-10-13,Ghaziabad - Raj Nagar,11:00,Late Morning,Weekday,624,27.02,18,Rainy,37.59,2.9,6.43
+2026-10-13,Ghaziabad - Raj Nagar,14:00,Afternoon,Weekday,604,32.42,12,Clear,32.68,7.8,16.57
+2026-10-13,Ghaziabad - Raj Nagar,17:00,Evening Peak,Weekday,933,27.23,22,Clear,54.16,6.47,19.64
+2026-10-13,Ghaziabad - Raj Nagar,20:00,Night,Weekday,459,26.89,11,Clear,35.74,4.46,12.89
+2026-10-13,Delhi - ITO,08:00,Morning Peak,Weekday,1512,18.66,34,Clear,84.41,5.08,23.6
+2026-10-13,Delhi - ITO,11:00,Late Morning,Weekday,862,21.22,21,Cloudy,61.14,7.54,28.29
+2026-10-13,Delhi - ITO,14:00,Afternoon,Weekday,734,24.02,16,Clear,39.38,8.83,22.51
+2026-10-13,Delhi - ITO,17:00,Evening Peak,Weekday,1500,17.28,42,Clear,85.36,9.43,38.29
+2026-10-13,Delhi - ITO,20:00,Night,Weekday,677,29.48,24,Cloudy,58.78,6.92,18.36
+2026-10-13,Gurugram - Cyber City,08:00,Morning Peak,Weekday,1392,26.49,31,Clear,58.36,11.22,31.47
+2026-10-13,Gurugram - Cyber City,11:00,Late Morning,Weekday,849,20.86,20,Clear,59.12,2.95,11.86
+2026-10-13,Gurugram - Cyber City,14:00,Afternoon,Weekday,680,20.75,16,Clear,42.98,3.54,11.75
+2026-10-13,Gurugram - Cyber City,17:00,Evening Peak,Weekday,1299,25.65,32,Clear,75.92,9.6,23.72
+2026-10-13,Gurugram - Cyber City,20:00,Night,Weekday,777,26.39,23,Rainy,39.43,4.24,13.6
+2026-10-19,Noida - Sector 62,08:00,Morning Peak,Weekday,993,31.34,24,Clear,63.71,9.51,25.02
+2026-10-19,Noida - Sector 62,11:00,Late Morning,Weekday,507,30.42,22,Clear,51.99,10.36,27.73
+2026-10-19,Noida - Sector 62,14:00,Afternoon,Weekday,557,29.66,18,Clear,43.96,6.51,17.15
+2026-10-19,Noida - Sector 62,17:00,Evening Peak,Weekday,1090,27.78,31,Cloudy,70.93,2.89,12.37
+2026-10-19,Noida - Sector 62,20:00,Night,Weekday,651,31.68,14,Rainy,49.2,9.53,19.58
+2026-10-19,Ghaziabad - Raj Nagar,08:00,Morning Peak,Weekday,1054,21.27,23,Clear,53.62,10.87,33.45
+2026-10-19,Ghaziabad - Raj Nagar,11:00,Late Morning,Weekday,573,27.74,5,Clear,37.47,10.61,27.15
+2026-10-19,Ghaziabad - Raj Nagar,14:00,Afternoon,Weekday,611,33.03,21,Rainy,61.42,7.71,17.96
+2026-10-19,Ghaziabad - Raj Nagar,17:00,Evening Peak,Weekday,771,29.54,32,Clear,84.32,6.97,19.76
+2026-10-19,Ghaziabad - Raj Nagar,20:00,Night,Weekday,485,26.78,7,Clear,43.58,10.23,22.51
+2026-10-19,Delhi - ITO,08:00,Morning Peak,Weekday,1447,22.43,39,Cloudy,96.6,10.82,38.05
+2026-10-19,Delhi - ITO,11:00,Late Morning,Weekday,976,20.24,32,Cloudy,70.96,10.14,31.87
+2026-10-19,Delhi - ITO,14:00,Afternoon,Weekday,920,24.02,13,Clear,49.86,4.26,15.85
+2026-10-19,Delhi - ITO,17:00,Evening Peak,Weekday,1553,24.79,35,Clear,75.31,10.95,33.62
+2026-10-19,Delhi - ITO,20:00,Night,Weekday,629,26.84,17,Clear,43.81,6.72,16.43
+2026-10-19,Gurugram - Cyber City,08:00,Morning Peak,Weekday,1328,21.66,37,Clear,80.47,10.01,36.58
+2026-10-19,Gurugram - Cyber City,11:00,Late Morning,Weekday,722,26.0,24,Clear,68.13,8.71,24.04
+2026-10-19,Gurugram - Cyber City,14:00,Afternoon,Weekday,632,26.71,17,Clear,56.07,10.75,28.5
+2026-10-19,Gurugram - Cyber City,17:00,Evening Peak,Weekday,1299,23.55,37,Cloudy,81.27,7.33,24.29
+2026-10-19,Gurugram - Cyber City,20:00,Night,Weekday,603,31.64,16,Cloudy,58.72,3.7,10.5
+2026-10-25,Noida - Sector 62,08:00,Morning Peak,Weekend,777,30.33,21,Clear,57.01,10.78,25.65
+2026-10-25,Noida - Sector 62,11:00,Late Morning,Weekend,452,30.29,1,Cloudy,20.38,7.62,13.51
+2026-10-25,Noida - Sector 62,14:00,Afternoon,Weekend,435,24.26,11,Clear,31.42,2.4,5.23
+2026-10-25,Noida - Sector 62,17:00,Evening Peak,Weekend,814,30.55,21,Cloudy,62.31,10.22,20.67
+2026-10-25,Noida - Sector 62,20:00,Night,Weekend,404,29.71,12,Clear,37.97,11.38,24.49
+2026-10-25,Ghaziabad - Raj Nagar,08:00,Morning Peak,Weekend,706,34.34,14,Clear,54.31,4.88,11.07
+2026-10-25,Ghaziabad - Raj Nagar,11:00,Late Morning,Weekend,375,28.31,6,Cloudy,18.29,6.39,12.48
+2026-10-25,Ghaziabad - Raj Nagar,14:00,Afternoon,Weekend,419,26.82,8,Clear,19.93,11.09,26.9
+2026-10-25,Ghaziabad - Raj Nagar,17:00,Evening Peak,Weekend,682,31.81,12,Clear,42.22,9.0,22.46
+2026-10-25,Ghaziabad - Raj Nagar,20:00,Night,Weekend,363,22.98,0,Clear,25.04,10.16,24.74
+2026-10-25,Delhi - ITO,08:00,Morning Peak,Weekend,1151,25.32,29,Cloudy,84.98,2.01,9.42
+2026-10-25,Delhi - ITO,11:00,Late Morning,Weekend,646,33.15,19,Cloudy,52.7,4.78,15.57
+2026-10-25,Delhi - ITO,14:00,Afternoon,Weekend,552,29.01,15,Cloudy,45.11,8.09,20.35
+2026-10-25,Delhi - ITO,17:00,Evening Peak,Weekend,1199,21.23,38,Clear,103.16,5.81,22.83
+2026-10-25,Delhi - ITO,20:00,Night,Weekend,654,23.06,13,Clear,49.38,2.49,8.78
+2026-10-25,Gurugram - Cyber City,08:00,Morning Peak,Weekend,1014,31.51,27,Clear,84.14,7.92,20.2
+2026-10-25,Gurugram - Cyber City,11:00,Late Morning,Weekend,583,29.57,15,Clear,32.95,5.3,10.34
+2026-10-25,Gurugram - Cyber City,14:00,Afternoon,Weekend,660,31.12,6,Clear,43.47,7.53,12.87
+2026-10-25,Gurugram - Cyber City,17:00,Evening Peak,Weekend,1129,26.62,20,Clear,67.89,8.23,21.63
+2026-10-25,Gurugram - Cyber City,20:00,Night,Weekend,521,25.79,16,Cloudy,53.4,10.12,28.11
